@@ -1,4 +1,3 @@
-package NandM;
 
 import java.io.*;
 import java.util.*;
